@@ -1,0 +1,81 @@
+body{
+    background: url(background.jpg);
+}
+#about{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#image{
+    display: flex;
+    justify-content: space-evenly;
+}
+#image img{
+    
+    
+    width: 60px;
+    
+ }
+ul{
+    background-color: black;
+    overflow: auto;}
+ ul li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+#poti{
+    float: right;
+}
+
+#army{
+    color: white;
+    font-size: 25px;
+}
+#formhaibhai{
+    border:5px solid gray;
+    font-size: 30px;
+    color: white;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    height: 250px;
+
+
+}
+#videos{
+    display: flex;
+    justify-content: space-evenly;
+}
+#videos p{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+#formhaibhai input{
+    margin: 10px;
+}
+#formhaibhai #tyyy{
+    font-size: 25px;
+    
+    background-color: black;
+    color: white ;
+    padding: 6px;
+    border: 3px solid cyan;
+}
+#g4560 input{
+    font-size: 25px;
+    
+    background-color: black;
+    color: white ;
+    padding: 6px;
+    border: 3px solid cyan;
+}
+h1{
+    color: white;
+}

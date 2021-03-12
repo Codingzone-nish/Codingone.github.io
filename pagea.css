@@ -1,0 +1,142 @@
+
+body{
+    background: url(background.jpg);
+}
+#wel{
+    display: flex;
+    margin: auto;
+    color: black;
+    justify-content: space-evenly;
+
+}
+#wel #rtx{
+    align-items: center;
+    color: blue;
+    text-shadow: blue;
+    border: 3px solid pink;
+    background-color: pink;
+    text-shadow: 4px 4px 2px black;
+    box-shadow: 7px 5px 10px purple;
+    
+}
+ol li{
+    color: white;
+}
+div{
+    display: flex;
+    color: white;
+}
+#lamba{
+    display: flex;
+}
+#lamba #ktm{
+    font-size: 25px;
+    color: white;
+}
+div p{
+    font-size: 50px;
+    font-weight: bolder;
+    display: flex;
+    margin: auto;
+    color: white;
+    
+}
+#image{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
+}
+#image img{
+    width: 60px;
+   }
+ul{
+    background-color: black;
+    overflow: auto;
+}
+ul li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+
+}
+
+#rub{
+    color: white;
+    font-size: 20px;
+}
+#gta{
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 30px;
+    color: white;
+}
+p{
+    font-weight: bolder;
+}
+#types{
+    font-weight: bolder;
+    font-size: 30px;
+}
+ol li{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#platform{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+
+}
+#platform a{
+    padding: 20px;
+    border: 3px solid red;
+    margin: 20px;
+    background-color: red;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 25px;
+    text-shadow: 5px 5px black;
+    box-shadow: 4px 4px 10px red;
+    
+}
+#platform #fb{
+    border: blue;
+    background-color: blue;
+    text-shadow: 5px 5px black;
+    box-shadow: 4px 4px 10px blue;
+}
+#platform #gt{
+    border: lightgreen;
+    background-color: lime;
+    color: white;
+    text-shadow: 3px 3px black;
+    box-shadow: 4px 4px 10px lime;
+}
+#poti{
+    float: right;
+    font-size: larger;
+   
+}
+
+marquee{
+    font-size: 30px;
+    color: white;
+}
+#cyber{
+    color: white;
+    font-size: 20px;
+}
+#types{
+    color: white;
+}

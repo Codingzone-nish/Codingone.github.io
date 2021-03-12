@@ -1,0 +1,34 @@
+body{
+    background: url(background.jpg);
+}
+#image{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-evenly;
+}
+#image img{
+    width: 60px;
+   }
+ul li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+ul{
+    background-color: black;
+    overflow: auto;}
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+marquee{
+    color: white;
+    font-size: 20px;
+
+}
+p{
+    color: white;
+    font-size: 25px;
+}
